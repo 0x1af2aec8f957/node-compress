@@ -4,8 +4,8 @@
 #### 安装
 
 ```bash
-npm install -g node-compress # 全局
-npm install node-compress -D # 局部
+npm install -g node-reduce # 全局
+npm install node-reduce -D # 局部
 ```
 
 #### 使用

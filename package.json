@@ -1,5 +1,5 @@
 {
-  "name": "node-compress",
+  "name": "node-reduce",
   "version": "0.0.1",
   "description": "node-compress,node解压缩命令行工具",
   "main": "wrap.js",
