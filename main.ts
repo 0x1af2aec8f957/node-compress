@@ -1,3 +1,6 @@
+#!/usr/bin/env ts-node --script-mode --transpile-only --files
+// This shebang is not portable.  It only works on Mac
+
 import { satisfies } from 'semver';
 import { red } from 'colors';
 import * as path from 'path';
